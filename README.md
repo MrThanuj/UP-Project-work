@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/57106292/117543612-35f8f800-b03b-11eb-91b9-4dbd69734595.png)
+
 # University Project-work<br>
 Insurance Fraud Detection using Machine Learning <br>
 
