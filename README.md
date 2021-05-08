@@ -1,15 +1,15 @@
-# University Project-work
-Insurance Fraud Detection using Machine Learning 
+# University Project-work\n
+Insurance Fraud Detection using Machine Learning \n
 
-Done by
-Mr. Thanuj Kumar S – 20171CSE0726
-Mr. Utsav Deep – 20171CSE0734
-Mr. Syed Atif  - 20171CSE0702
-Mr. Syed Shoaib   - 20171CSE0709
-Mr. Tejas Bhatnagar – 20171CSE0721
+Done by\n
+Mr. Thanuj Kumar S – 20171CSE0726\n
+Mr. Utsav Deep – 20171CSE0734\n
+Mr. Syed Atif  - 20171CSE0702\n
+Mr. Syed Shoaib   - 20171CSE0709\n
+Mr. Tejas Bhatnagar – 20171CSE0721\n
 
-Under the guidance of
-Prof. T. Ramesh - Asst Prof CSE
+Under the guidance of\n
+Prof. T. Ramesh - Asst Prof CSE\n
 
 
 This is the University Project done in the year 2021 on subject Machine learning to detect the fraud in Insurance company dataset.
