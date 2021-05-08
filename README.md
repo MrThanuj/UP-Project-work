@@ -1,10 +1,10 @@
 # University Project-work\n
 Insurance Fraud Detection using Machine Learning \n
 
-Done by\n
-Mr. Thanuj Kumar S – 20171CSE0726\n
-Mr. Utsav Deep – 20171CSE0734\n
-Mr. Syed Atif  - 20171CSE0702\n
+Done by<n>
+Mr. Thanuj Kumar S – 20171CSE0726<n>
+Mr. Utsav Deep – 20171CSE0734<n>
+Mr. Syed Atif  - 20171CSE0702<n>
 Mr. Syed Shoaib   - 20171CSE0709\n
 Mr. Tejas Bhatnagar – 20171CSE0721\n
 
