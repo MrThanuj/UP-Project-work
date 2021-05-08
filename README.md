@@ -8,5 +8,6 @@ In this project using this dataset we found XG Boost performing better than SVM.
 
 Our project is deployed in cloud platform as API, using flask Web framework.
 
-![image](https://user-images.githubusercontent.com/57106292/117533566-219d0700-b00b-11eb-90ba-a18a49097ea2.png)
+![image](https://user-images.githubusercontent.com/57106292/117533661-9a03c800-b00b-11eb-889f-9c73b1da78dd.png)  
+
 
