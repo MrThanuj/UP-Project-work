@@ -7,3 +7,6 @@ Then we are performing Model evaluation to select the best model for prediction.
 In this project using this dataset we found XG Boost performing better than SVM. Best Model gave the expected output in terms of Fraud or Not Fraud.
 
 Our project is deployed in cloud platform as API, using flask Web framework.
+
+![image](https://user-images.githubusercontent.com/57106292/117533566-219d0700-b00b-11eb-90ba-a18a49097ea2.png)
+
