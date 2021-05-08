@@ -1,4 +1,4 @@
-# UP-Project-work
+# University Project-work
 Insurance Fraud Detection using Machine Learning 
 
 This is the University Project done in the year 2021 on subject Machine learning to detect the fraud in Insurance company dataset.
