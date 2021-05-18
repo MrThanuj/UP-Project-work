@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/57106292/117543612-35f8f800-b03b-11eb-91b9-4dbd69734595.png)
 
 # University Project-work<br>
-Insurance Fraud Detection using Machine Learning <br>
+# Insurance Fraud Detection using Machine Learning <br>
 
 Done by<br>
 Mr. Thanuj Kumar S – 20171CSE0726<br>
@@ -13,12 +13,37 @@ Mr. Tejas Bhatnagar – 20171CSE0721<br>
 Under the guidance of<br>
 Prof. T. Ramesh - Asst Prof CSE<br>
 
+Every year, the insurance industry losing billions of dollars due to fraud. The act when a person makes fake insurance claims to gain benefits, compensation & other advantages to which they are not entitled is known as Insurance Fraud. Nowadays insurance fraud detection is becoming a tedious problem for insurance companies to deal with as they need more investment and workforces to keep track of every transaction. In this project, we are focusing on the major issue faced by insurance companies that is insurance fraud. we use the machine learning technique to detect insurance fraud based on the transactional data given by the insurance company. We build predictive models and compared their performance by calculation of confusion matrix then it is evaluated on various performance measuring parameters like accuracy, precision, recall, F1 score, and also on AUC curve. SVM (Support Vector Machine) and XG Boost (Extreme Gradient Boosting) are the machine learning algorithms used. After model evaluation, we select the best model for prediction. In this project using this dataset we found XG Boost performing better than SVM. Best Model gave the expected output in terms of Fraud or Not Fraud. Our application is deployed in cloud platform as API, using flask Web framework.
 
-This project was done in 2021 using the Machine learning technique to detect fraud in the insurance company dataset. We are collecting the dataset, preprocessing it, and then fed it to the model building phase here we use SVM (Support Vector Machine) and XG Boost (eXtreme Gradient Boosting). Then we are performing a model evaluation to select the best prediction model.
-In this project using this dataset we found XG Boost performing better than SVM. Best Model gave the expected output in terms of Fraud or Not Fraud.
 
-Our project is deployed in cloud platform as API, using flask Web framework.
+![image](https://user-images.githubusercontent.com/57106292/118623331-c5459e80-b7e5-11eb-807f-508a39bf9c67.png)
 
-![image](https://user-images.githubusercontent.com/57106292/117533661-9a03c800-b00b-11eb-889f-9c73b1da78dd.png)  
+
+
+ 
+	
+
+
+
+	  
+	
+	
+
+
+ 
+    	
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
 
 
