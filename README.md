@@ -17,7 +17,7 @@ Every year, the insurance industry losing billions of dollars due to fraud. The 
 
 
 Research Paper "INSURANCE FRAUD DETECTION USING MACHINE LEARNING" 
-Published in http://ijaict.com/ijaict2021v8i1t1.html (IJAICT India Publication)
+Published in https://www.ijaict.com/journals/ijaict/ijaict_abstract/2021_volume08/2021_v8i1/v8i1_1.html (IJAICT India Publication)
 
 ![image](https://user-images.githubusercontent.com/57106292/118623331-c5459e80-b7e5-11eb-807f-508a39bf9c67.png)
 
