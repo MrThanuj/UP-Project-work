@@ -3,6 +3,8 @@
 # University Project-work<br>
 # Insurance Fraud Detection using Machine Learning <br>
 
+Source Code Credits: Ineuron (Machine Learning Course)
+
 Done by<br>
 Mr. Thanuj Kumar S – 20171CSE0726<br>
 Mr. Utsav Deep – 20171CSE0734<br>
